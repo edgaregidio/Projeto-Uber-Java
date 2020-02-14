@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328718942984",
+    "firebase_url": "https://uber-clone-58bed.firebaseio.com",
+    "project_id": "uber-clone-58bed",
+    "storage_bucket": "uber-clone-58bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328718942984:android:cd9fac1481a3e8a43ce2bd",
+        "android_client_info": {
+          "package_name": "edgar.cursoandroid.uber.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328718942984-gskfc5i6ctu6m3t2e74v2ulaksapq241.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edgar.cursoandroid.uber.com",
+            "certificate_hash": "d993dcbb44f28f8f8c8bdf7f85df1f78419c032d"
+          }
+        },
+        {
+          "client_id": "328718942984-vbj68v13t3nk9m9ut8pq57jerphdbgem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoQyySd39Rul0tImhyY2CyMKkljB4iNkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328718942984-vbj68v13t3nk9m9ut8pq57jerphdbgem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
